@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/parallax-site/static/css/main.7c60483d.chunk.css",
-    "main.js": "/parallax-site/static/js/main.dc6f16b4.chunk.js",
-    "main.js.map": "/parallax-site/static/js/main.dc6f16b4.chunk.js.map",
-    "runtime-main.js": "/parallax-site/static/js/runtime-main.a997ee7d.js",
-    "runtime-main.js.map": "/parallax-site/static/js/runtime-main.a997ee7d.js.map",
-    "static/js/2.5ca814fa.chunk.js": "/parallax-site/static/js/2.5ca814fa.chunk.js",
-    "static/js/2.5ca814fa.chunk.js.map": "/parallax-site/static/js/2.5ca814fa.chunk.js.map",
+    "main.js": "/parallax-site/static/js/main.82d3d0d8.chunk.js",
+    "main.js.map": "/parallax-site/static/js/main.82d3d0d8.chunk.js.map",
+    "runtime-main.js": "/parallax-site/static/js/runtime-main.18ce5bb1.js",
+    "runtime-main.js.map": "/parallax-site/static/js/runtime-main.18ce5bb1.js.map",
+    "static/js/2.c205512a.chunk.js": "/parallax-site/static/js/2.c205512a.chunk.js",
+    "static/js/2.c205512a.chunk.js.map": "/parallax-site/static/js/2.c205512a.chunk.js.map",
     "index.html": "/parallax-site/index.html",
-    "precache-manifest.56591fa0f3cb537c102bad9a3d8d9f65.js": "/parallax-site/precache-manifest.56591fa0f3cb537c102bad9a3d8d9f65.js",
+    "precache-manifest.7629f607ef73b2f0297a00230865eb65.js": "/parallax-site/precache-manifest.7629f607ef73b2f0297a00230865eb65.js",
     "service-worker.js": "/parallax-site/service-worker.js",
     "static/css/main.7c60483d.chunk.css.map": "/parallax-site/static/css/main.7c60483d.chunk.css.map",
-    "static/js/2.5ca814fa.chunk.js.LICENSE": "/parallax-site/static/js/2.5ca814fa.chunk.js.LICENSE"
+    "static/js/2.c205512a.chunk.js.LICENSE": "/parallax-site/static/js/2.c205512a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.a997ee7d.js",
-    "static/js/2.5ca814fa.chunk.js",
+    "static/js/runtime-main.18ce5bb1.js",
+    "static/js/2.c205512a.chunk.js",
     "static/css/main.7c60483d.chunk.css",
-    "static/js/main.dc6f16b4.chunk.js"
+    "static/js/main.82d3d0d8.chunk.js"
   ]
 }
