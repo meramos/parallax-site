@@ -1,3 +1,6 @@
+<h2>View website here: https://meramos.github.io/parallax-site/</h2>
+Tutorial followed in order to host React App on GitHub: https://levelup.gitconnected.com/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
