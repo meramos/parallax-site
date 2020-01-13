@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    /*background-color: #282c34;*/
+    background-image: url("https://images.unsplash.com/photo-1529704349-64db1cf879f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+  }
